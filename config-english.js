@@ -175,5 +175,6 @@ window.APP_CONFIG = {
       "Extremely Severe: Immediate professional help is required for your extremely severe stress condition. Please contact your counselor, doctor, or nearest mental health clinic. Alternatively, you may contact a helpline (e.g., 1925)."
     ]
   },
-  "logo": "assets/logo.png"
+  "logo": "assets/logo.png",
+  "error-msg" : "Please answer all questions on this page before continuing."
 };
