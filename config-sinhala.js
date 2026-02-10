@@ -131,7 +131,7 @@ window.APP_CONFIG = {
       "https://drive.google.com/file/d/1u03z_XHzTa71HoOc0cxlgmlILTlDHKTx/preview",
       "https://drive.google.com/file/d/1UtBEWyCBpOyyqj6X5vq3phpwFukgOoBf/preview"
     ],
-    "prevLabel": "පෙරට",
+    "prevLabel": "ආපසු",
     "finishLabel": "නිම කරන්න",
     "pdfLabel": "PDF ලෙස බාගන්න",
     "tableHeaders": [
